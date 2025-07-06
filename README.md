@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miamiblog, I'm 17 years old, I'm in college a fresher to be exact.
+- 👋 Hi, I’m @Miamiblog, I'm 21 years old, I'm in college.
 - 👀 I’m interested in anything programming languages, Data structures and algorithm, Computer science fundamentals..... and more.
 - 🌱 I’m currently learning coding and web development.
 - 💞️ I’m looking to collaborate on open-source projects, Web development, Internet of Things(IOT), Cybersecurity and Data Science.
