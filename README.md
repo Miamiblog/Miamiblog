@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miamiblog, I'm 21 years old, I'm in college.
 - 👀 I’m interested in anything programming languages, Data structures and algorithm, Computer science fundamentals..... and more.
-- 🌱 I’m currently learning coding and web development.
+- 🌱 I’m a web developer.
 - 💞️ I’m looking to collaborate on open-source projects, Web development, Internet of Things(IOT), Cybersecurity and Data Science.
 - 📫 How to reach me: Phone: +234 7035157216.
 -  Email:chukwuebukaenyeribenyem@gmail.com, miamiggtf42@outlook.com
